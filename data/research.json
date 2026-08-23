@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "title": "Trajectori Motion for variation of elevation angle",
+    "date": "2026-08-24",
+    "description": "Gerak parabola terjadi ketika benda dilempar dari tanah dengan sudut lemparan tertentu, karena adanya percepatan gravitasi dalam arah vertikal maka benda akan bergerak kembali ke bawah dan lintasannya menyerupai kurva parabola. SImulasi ini menjelaskan bagaimana ketika di udara terdapat gesekan yang cukup kecil? maka benda akan mengalami perubahan kecepatan di setiap komponen vektor yang ditandai warna yang berubah dari orange menuju ungu.",
+    "tags": [
+      "gerak parabola"
+    ],
+    "file": "uploads/research/2026-08-24-trajectori-motion-for-variation-of-elevation-angle-trajectory-3d.gif"
+  }
+]
