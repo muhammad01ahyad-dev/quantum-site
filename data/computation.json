@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "title": "Gerak Parabola dan pengaruh angin terhadap lintasannya",
+    "date": "2026-08-24",
+    "description": "saat benda dilempar secara vertikal dengan sudut lemparan tertentu, maka bola akan kembali menuju permukaan tanah karena adanya gravitasi. Lalu, bagaimana jika terdapat gesekan dan juga angin yang berhembus saat benda mengudara? tentunya arah gerak dari benda akan mengalami perubahan seperti yang ditunjukkan pada ilustrasi di model simulasi ini.",
+    "tags": [
+      "gerak parabola"
+    ],
+    "file": "uploads/computation/2026-08-24-gerak-parabola-dan-pengaruh-angin-terhadap-lintasannya-trajectory-3d-wind.gif"
+  }
+]
