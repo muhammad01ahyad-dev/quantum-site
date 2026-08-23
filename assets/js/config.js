@@ -7,17 +7,17 @@
   - branch : biasanya "main"
 */
 const GITHUB_CONFIG = {
-  owner: "USERNAME_GITHUB_ANDA",
-  repo: "REPO_SITUS_ANDA",
+  owner: "muhammad01ahyad-dev",
+  repo: "quantum-site",
   branch: "main"
 };
 
 // Identitas untuk ditampilkan di Beranda & footer — silakan sesuaikan.
 const SITE_PROFILE = {
-  name: "Nama Anda",
+  name: "Muhayad",
   role: "PhD Student — Fisika Kuantum Teori & Komputasi",
   affiliation: "Institut Pertanian Bogor (IPB)",
   collab: "Kerja sama riset dengan BRIN",
-  email: "email@contoh.ac.id",
+  email: "muhammad01ahyad@apps.ipb.ac.id",
   bio: "Meneliti fondasi teori sistem kuantum dan mengembangkan metode komputasi untuk mensimulasikan dinamikanya. Situs ini adalah ruang kerja sekaligus arsip publik dari penelitian, catatan, dan publikasi."
 };
