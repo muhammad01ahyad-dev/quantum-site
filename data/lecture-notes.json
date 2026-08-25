@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "title": "Solusi Persamaan Schrodinger untuk Atom Hidrogen",
+    "date": "2026-08-25",
+    "description": "Hidrogen adalah atom paling sederhana di alam ini, jumlah elektron yang mengitari inti atom adalah 1 elektron. Tau kah kalian, walaupun hanya satu elektron, solusi persamaan Schrodinger dari atom hidrogen ini cukup rumit. Kalian bayangkan elektron kita anggap bergerak dengan simetri bola yang mengandung 3 variabel berubah, yaitu arah radial, arah angular dan arah azimuth, seperti halnya bumi yang memiliki jari-jari, bujur dan lintang. Saya sebenarnya belum selesai menyelesaikan solusi dari persamaan Schrodinger ini, tetapi pada intinya sense dari elektron mengitari inti atom hidrogen ini cukup menarik. Kita akan mendapatkan konsep spasial yang dialami oleh elektron tidak bisa sembarangan, melainkan terkuantisasi. misalnya pada arah radial, kita akan mendapatkan bilangan kuantum \"n\" yang menyatakan kulit-kulit atom hidrogen yang memperbolehkan elektron berada di kulit tersebut secara stasioner. Begitu juga bilangan kuantum angular \"l\" dan bilangan kuantum \"m\" yang berkaitan dengan spin dari elektron. Kita ketahui, kuantitasi tersebut terjadi karena elektron adalah partikel Fermion yang harus patuh pada larangan Pauli, yaitu tidak ada dua elektron yang memiliki keadaan kuantum yang sama. Jadi, walapun terdapat dua elektron di kulit yang sama, maka dapat dipastikan keadaan kauntum yang lain haruslah berbeda. Tujuan dari penurunan ini adalah mengetahui dasar dari solusi persamaan Schrodinger untuk atom hidrogen, selain itu memahami orbital-orbital yang dimilikinya dan penting untuk memahami Teori Orbital Molekular yang merupakan kombinasi Linear orbital atomiknya.",
+    "tags": [],
+    "file": "uploads/lecture-notes/2026-08-25-solusi-persamaan-schrodinger-untuk-atom-hidrogen-hydrogen-atom.pdf"
+  }
+]
