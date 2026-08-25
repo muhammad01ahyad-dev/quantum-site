@@ -7,5 +7,12 @@
       "gerak parabola"
     ],
     "file": "uploads/computation/2026-08-24-gerak-parabola-dan-pengaruh-angin-terhadap-lintasannya-trajectory-3d-wind.gif"
+  },
+  {
+    "title": "Properties Atom Hidrogen",
+    "date": "2026-08-25",
+    "description": "Atom Hidrogen memiliki jumlah elektron yang mengorbit yaitu 1 elektron. Kita anggap elektron bergerak mengitari inti atom memenuhi simetri bola, sehingga persamaan gelombangnya memuat dua keadaan yang dapat kita pisahkan solusinya, yaitu bagian radial (R) dan bagian angular dan azimuth. masing-masing peluang keadaan elektron dapat dilihat seperti pada Gambar di bawah. untuk bagian radial, peluang elektron berada dekat inti cukup besar, hal ini berkaitan dengan interaksinya dengan inti yaitu interaksi Coulomb. semakin jauh elektron dengan inti maka interaksinya semakin lemah dan peluang elektron berada pada kondisii tersebut cukup kecil karena elektron pada atom hidrogen terlokalisasi di orbital S dengan kulit paling dekat dengan inti.",
+    "tags": [],
+    "file": "uploads/computation/2026-08-25-properties-atom-hidrogen-properties-atom-hidrogen.png"
   }
 ]
