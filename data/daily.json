@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "title": "Quantum Geometric Tensors",
+    "date": "2026-08-27",
+    "description": "Today, I have learned about Quantum Geometric that have two part, that are Berry Curvature and Quantum Metric. Berry curvature is analog magnetic field in momentum space in Brillouin Zone, while quantum metric tell us about the distance between two eigenstate in Hilbert space. nowaday, quantum metric is get attention from the condensed matter community, because it's contribution to several phenomena such as Bulk Photovoltaic Effect, Photocurrent , and other nonlinear respons. I have read the paper from Nagaosa, and very interesting to understand.",
+    "tags": [
+      "Quantum Geometric Tensor",
+      "Topological Materials"
+    ],
+    "file": null
+  }
+]
