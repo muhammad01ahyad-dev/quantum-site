@@ -5,6 +5,23 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Beranda — Ruang Riset Fisika Kuantum</title>
 <link rel="stylesheet" href="assets/css/style.css">
+<!-- CSS Tambahan agar tampilan foto rapi -->
+<style>
+  .hero-profile-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    flex-wrap: wrap; /* Supaya responsif di layar HP */
+  }
+  .profile-photo {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%; /* Membuat foto berbentuk lingkaran */
+    border: 3px solid var(--accent, #007acc); /* Bingkai foto */
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  }
+</style>
 </head>
 <body>
 
@@ -13,15 +30,24 @@
 
 <section class="hero">
   <div id="heroWaveMount"></div>
-  <div class="wrap hero-inner">
-    <p class="eyebrow">profil</p>
-    <h1>Riset fisika kuantum <span class="accent">teori & komputasi</span>, dari lab ke arsip publik.</h1>
-    <p class="lede" id="bioText"></p>
-    <div class="hero-tags">
-      <span id="tagRole"></span>
-      <span id="tagAffil"></span>
-      <span id="tagCollab"></span>
+  <div class="wrap hero-inner hero-profile-wrapper">
+    
+    <!-- TAMBAHAN: Tag Foto Profil -->
+    <div class="photo-container">
+      <img src="assets/images/foto-profil.jpg" alt="Foto Profil" class="profile-photo">
     </div>
+
+    <div class="hero-text-container">
+      <p class="eyebrow">profil</p>
+      <h1>Riset fisika kuantum <span class="accent">teori & komputasi</span>, dari lab ke arsip publik.</h1>
+      <p class="lede" id="bioText"></p>
+      <div class="hero-tags">
+        <span id="tagRole"></span>
+        <span id="tagAffil"></span>
+        <span id="tagCollab"></span>
+      </div>
+    </div>
+
   </div>
 </section>
 
@@ -47,7 +73,7 @@ const CARDS = [
   { n:"02", href:"daily.html",          title:"Progress Harian",     desc:"Log harian kegiatan riset — bacaan, eksperimen kecil, dan catatan berpikir." },
   { n:"03", href:"papers.html",         title:"Paper",               desc:"Naskah, preprint, dan publikasi yang siap dibaca atau diunduh." },
   { n:"04", href:"computation.html",    title:"Komputasi",           desc:"Kode simulasi, notebook, dan hasil komputasi numerik/kuantum." },
-  { n:"05", href:"lecture-notes.html",  title:"Catatan Kuliah",      desc:"Ringkasan materi perkuliahan yang diikuti selama studi." },
+  { n:"05", href:"lecture-notes.html", title:"Catatan Kuliah",      desc:"Ringkasan materi perkuliahan yang diikuti selama studi." },
   { n:"06", href:"teaching-notes.html", title:"Catatan Mengajar",    desc:"Materi dan modul yang digunakan saat mengajar/asisten." },
   { n:"07", href:"books.html",          title:"Buku",                desc:"Buku dan referensi penting yang siap dipublikasikan." },
 ];
