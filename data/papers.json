@@ -30,5 +30,17 @@
       "energi alternatif"
     ],
     "file": null
+  },
+  {
+    "title": "Third-harmonic generation in tetragonal methylammonium lead iodide (MAPbI3) perovskite",
+    "date": "2025-08-28",
+    "description": "Methylammonium lead iodide (MAPbI3) is a key candidate for metal halide perovskite (MHP) solar cells due to its phase-dependent behavior and intriguing optoelectronic properties. Second-harmonic generation (SHG) is commonly employed to study their surface properties at the nanoscale. Meanwhile, third-harmonic generation (THG) allows unique, to the best of our knowledge, access to bulk properties even if the material is centrosymmetric. However, THG in perovskites has so far never been studied within the framework of the nonlinear bond model. Therefore, in this work, we develop the simplified bond-hyperpolarizability model (SBHM) to analyze THG in tetragonal  at the surface and bulk. To validate the bond model assumption that THG radiation is emitted with the oscillatory motion of bonds in covalent structures, we apply density functional theory to visualize the charge density of tetragonal  \n\nhttps://opg.optica.org/abstract.cfm?uri=josab-42-9-2103",
+    "tags": [
+      "Nonlinear Optics",
+      "Third Harmonic Generation",
+      "Simplified Bond Hyperpolarizability Model",
+      "Perovskite"
+    ],
+    "file": "uploads/papers/2025-08-28-third-harmonic-generation-in-tetragonal-methylammonium-lead--bondvectors.pdf"
   }
 ]
