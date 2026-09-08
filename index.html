@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Beranda — Ruang Riset Fisika Kuantum</title>
 <link rel="stylesheet" href="assets/css/style.css">
-<!-- CSS Tambahan agar tampilan foto rapi -->
+<!-- CSS Tambahan dengan bingkai persegi (Rectangle) -->
 <style>
   .hero-profile-wrapper {
     display: flex;
@@ -14,12 +14,12 @@
     flex-wrap: wrap; /* Supaya responsif di layar HP */
   }
   .profile-photo {
-    width: 150px;
-    height: 150px;
-    object-fit: cover;
-    border-radius: 50%; /* Membuat foto berbentuk lingkaran */
-    border: 3px solid var(--accent, #007acc); /* Bingkai foto */
-    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    width: 160px;            /* Lebar foto */
+    height: 210px;           /* Tinggi foto (proporsi portrait) */
+    object-fit: cover;       /* Agar foto tidak terdistorsi / gepeng */
+    border-radius: 12px;     /* Ubah ke 0px jika ingin sudut tajam/siku murni */
+    border: 3px solid var(--accent, #007acc); /* Warna bingkai */
+    box-shadow: 0 8px 20px rgba(0,0,0,0.25);  /* Bayangan lembut */
   }
 </style>
 </head>
@@ -32,7 +32,7 @@
   <div id="heroWaveMount"></div>
   <div class="wrap hero-inner hero-profile-wrapper">
     
-    <!-- TAMBAHAN: Tag Foto Profil -->
+    <!-- Tag Foto Profil -->
     <div class="photo-container">
       <img src="assets/images/foto-profil.jpg" alt="Foto Profil" class="profile-photo">
     </div>
