@@ -7,5 +7,17 @@
       "gerak parabola"
     ],
     "file": "uploads/research/2026-08-24-trajectori-motion-for-variation-of-elevation-angle-trajectory-3d.gif"
+  },
+  {
+    "title": "Nonlinear anomalous photocurrents in quantum materials",
+    "date": "2026-09-08",
+    "description": "Saya sedang menganalisis paper Habib-Rostami dengan judul Nonlinear anomalous photocurrents in Weyl Semimetal (bisa dicari referensinya) di google scholar, jadi paper ini menjelaskan bagaimana photocurrent dapat muncul pada material Weyl Semimetal dan kontribusinya dari Berry Dipoles dan pembahasannya merujuk juga pada quadrupoles. Paper ini memberikan Frame work bagaimana kita dapat menghitung photocurrent dengan formulasi yang belum saya selesaikan, cukup lumayan panjang gaes.",
+    "tags": [
+      "Weyl Semimetals",
+      "quantum materials",
+      "photocurrent",
+      "Second order"
+    ],
+    "file": "uploads/research/2026-09-08-nonlinear-anomalous-photocurrents-in-quantum-materials-screenshot-20260908-203425.png"
   }
 ]
