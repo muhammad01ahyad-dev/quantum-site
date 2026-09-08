@@ -14,5 +14,15 @@
     "description": "Atom Hidrogen memiliki jumlah elektron yang mengorbit yaitu 1 elektron. Kita anggap elektron bergerak mengitari inti atom memenuhi simetri bola, sehingga persamaan gelombangnya memuat dua keadaan yang dapat kita pisahkan solusinya, yaitu bagian radial (R) dan bagian angular dan azimuth. masing-masing peluang keadaan elektron dapat dilihat seperti pada Gambar di bawah. untuk bagian radial, peluang elektron berada dekat inti cukup besar, hal ini berkaitan dengan interaksinya dengan inti yaitu interaksi Coulomb. semakin jauh elektron dengan inti maka interaksinya semakin lemah dan peluang elektron berada pada kondisii tersebut cukup kecil karena elektron pada atom hidrogen terlokalisasi di orbital S dengan kulit paling dekat dengan inti.",
     "tags": [],
     "file": "uploads/computation/2026-08-25-properties-atom-hidrogen-properties-atom-hidrogen.png"
+  },
+  {
+    "title": "Edge Mode States pada Graphene",
+    "date": "2026-09-08",
+    "description": "Graphene memiliki properties yang unik, dari struktur yang berbentuk heksagonal dan sering disebut struktur honeycomb karena seperti sarang lebah. Selain struktur tersebut, properties lainnya yang menarik yaitu pita elektronik dengan Dirac Cone yang selalu terbentuk di titik K dan K'. Di titik tersebut pita valensi dan pita konduksi bertemu dan sifat inilah yang menyebabkan kenapa Graphene bersifat seperti konduktor. Properties lain yang dimiliki oleh graphene adalah Time Reversal Symmetry dan Symmetry Inversion. Nah, yang paling menarik lagi itu adalah struktur graphene yang jika kita buat finite di suatu sumbu (misalnya sumbu-y) dan struktur tersebut dikenal sebagai nanoribbon. Struktur graphene dengan bentuk zig-zag memiliki edge mode states seperti yang terlihat pada gambar. Elektron benar-benar terlokalisasi di suatu rentang ruang momentum. Menariknya lagi, jika kita patahkan simetri Time Reversal dengan menambahkan suku massa sehingga model ini menjadi massive (biasanya disebut model sederhana haldane) dan menyebabkan munculnya gap/celah antar pita valensi dengan pita konduksi\nuntuk lebih detail kita bisa membaca buku Bernevig dengan judul Topological Insulator and Superconductors",
+    "tags": [
+      "graphene",
+      "edge mode states"
+    ],
+    "file": "uploads/computation/2026-09-08-edge-mode-states-pada-graphene-edge-mode-states.png"
   }
 ]
