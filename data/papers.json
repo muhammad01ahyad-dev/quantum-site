@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "title": "Fisika Kuantum",
+    "date": "2024-10-28",
+    "description": "Buku Fisika Kuantum ini dirancang untuk menjawab berbagai pertanyaan mendasar tentang dunia subatomik dan membawa pembaca menuju pemahaman yang lebih dalam mengenai teori kuantum. Dimulai dengan konsep dasar, buku ini memaparkan asal usul fisika kuantum dan peran pentingnya dalam menjelaskan fenomena yang tak dapat diterangkan oleh fisika klasik, seperti radiasi benda hitam dan dualitas partikel-gelombang. Di bagian selanjutnya, pembaca akan diajak untuk mendalami aspek matematis dari fisika kuantum, yang mencakup ruang Hilbert, operator Hermitian, serta peran transformasi Fourier dalam mekanika kuantum. Buku ini kemudian membahas teori mekanika kuantum, struktur atom, dan fenomena spin serta statistik kuantum yang menjadi dasar pemahaman terhadap perilaku partikel-partikel elementer. Pembaca juga akan mendapatkan wawasan mengenai aplikasi praktis teori kuantum, seperti komputasi dan informasi kuantum, yang menjadi pilar dalam teknologi mutakhir. Buku ini tidak hanya menyajikan konsep fisika kuantum dari sisi ilmiah, tetapi juga menyoroti interpretasi filosofisnya dan potensi pengembangan teknologi berbasis kuantum di masa depan. Dengan bahasa yang jelas dan disertai dengan contoh kasus yang mudah dipahami, buku ini diharapkan mampu menjadi referensi yang bermanfaat bagi para pelajar, akademisi, dan siapa saja yang tertarik mendalami fisika kuantum.\n\nhttps://www.researchgate.net/profile/Adi-Ganda-Putra/publication/390248526_E-Book_Fisika_Kuantum/links/67e62173920b736ca9b31c65/E-Book-Fisika-Kuantum.pdf",
+    "tags": [
+      "fisika kuantum",
+      "mekanika kuantum"
+    ],
+    "file": null
+  }
+]
