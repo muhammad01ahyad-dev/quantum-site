@@ -16,5 +16,16 @@
       "silicon"
     ],
     "file": "uploads/lecture-notes/2026-08-09-perhitungan-dengan-dft-quantum-espresso-si-bandstructure.png"
+  },
+  {
+    "title": "Edge Mode State lengkap dengan semenoff mass",
+    "date": "2026-09-09",
+    "description": "Bandstructure dari edge mode state graphene dipengaruhi juga atom mana yang berada di ujung-ujung. Hal ini berkaitan bagaimana letak topologinya di ruang momentum.",
+    "tags": [
+      "Edge Mode States",
+      "Graphene",
+      "Haldane"
+    ],
+    "file": "uploads/lecture-notes/2026-09-09-edge-mode-state-lengkap-dengan-semenoff-mass-edge-mode-state-of-graphene-and-haldane-model.pdf"
   }
 ]
