@@ -8,5 +8,16 @@
       "Topological Materials"
     ],
     "file": null
+  },
+  {
+    "title": "Perhitungan Band Structure Struktur Kagome CoSn",
+    "date": "2026-09-12",
+    "description": "Kagome lattice, adalah salah satu struktur kristal yang unik, nama tersebut diambil dari anyaman tradisional Jepang. Selain strukturnya yang menarik, terdapat beberapa properties menarik lainnya yaitu pita elektroniknya yang muncul yaitu pita datar (flat band). Perlu diketahui bahwa pada saat suatu rentang pita elektronik memiliki bentuk  datar maka ada fenomena korelasi elektron, seperti halnya yang terjadi pada superkonduktor.  Pita elektronik ini dapat kita hitung secara komputasi dan analitik. Komputasi kita gunakan dengan metode DFT dan platform yang dapat digunakan yaitu Quantum Espresso, Wannier90, VASP. sedangkan metode analitik yang dapat digunakan yaitu tight binding. Di sini saya ambil contoh material Kagome yaitu CoSn dengan struktur dan bandsturcturenya dapat dilihat pada gambar di bawah.",
+    "tags": [
+      "kagome lattice",
+      "bandstructure",
+      "flatband"
+    ],
+    "file": "uploads/daily/2026-09-12-perhitungan-band-structure-struktur-kagome-cosn-cosn.png"
   }
 ]
