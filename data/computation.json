@@ -24,5 +24,17 @@
       "edge mode states"
     ],
     "file": "uploads/computation/2026-09-08-edge-mode-states-pada-graphene-edge-mode-states.png"
+  },
+  {
+    "title": "Edge State pada Graphene",
+    "date": "2026-09-16",
+    "description": "Struktur Graphene jika kita buat pada salah satu sumbu menjadi berhingga (finite) maka akan menjadi struktur nanoribbon dan memungkinkan adanya adge state jika strukturnya zigzag. Kita dapat membuktikan adanya edge state dari struktur band dalam ruang momentum berada di nilai energi E = 0. Edge state ini ditandai dengan adanya flat band dan merupakan kontribusi dari atom-atom yang berada di ujung-ujung yang elektronnya terikat kuat/terlokalisasi. kita akan buktikan keduanya dengan menentukan energi eigen dan eigen state dan melihat probabilitasnya. Gambar di bawah ini mewakili ilustrasi dan hasil analisis. Gambar (a) menunjukkan struktur nanoribbon, di mana di sini ujung-ujung dari layer adalah atom A (walaupun semua atom adalah karbon). Jika kita potong pada bagian A nya tersebut maka kita akan dapatkan ujung atas adalah B. Ternyata ada perbedaan yang sangat signifikan terjadi ketika kedua ujung atas dan bawahnya berbeda. Gambar (b,kiri atas) menunjukkan bandstruktur dari nanoribbon dengan ujung atas dan bawah yaitu A. Hasil tersebut menunjukkan bahwa elektron yang berada di dekat k = $pi$ dan $-pi$ menunjukkan energi E = 0 (flat band) Artinya adalah elektron terlokalisasi di daerah tersebut.  Sedangkan ketika ujung-ujungnya kita ganti menjadi B-B, elektron terlokalisasi di sekitar k > -pi dan k<pi dan bagian lainnya (bisa dilihat). Ada perbedaan yang cukup signifikan terjadi posisi elektron terlokalisasi. Lalu bagaimana jika kita ganggu dengan gangguan luar berupa medan listrik/medan magnet yang menimbulkan adanya faktor massa semenof pada Hamiltonian TIght binding? ohh, ternyata yang tadinya gapless menjadi ada gap. Implikasinya adalah elektron tetap terlokalisasi, tetapi berada pada keadaan energi yang tidak nol. artinya, jika kita melakukan pengukuran misalnya di rentang energi gap maka kita tidak akan menemukan elektron di daerah flat band. tetapi, jika energi kita sama dengan energi gap maka kita akan mendapatkan elektron berada di rentang flat band. Menariknya lagi, jika kita cari probabilitas dari atom yang berkontribusi pada flat band, ternyata kita akan dapatkan elektron yang berada di ujung-ujung, seperti terlihat pada Gambar (c).",
+    "tags": [
+      "Graphene",
+      "Edge State",
+      "Tigh-binding",
+      "flat band"
+    ],
+    "file": "uploads/computation/2026-09-16-edge-state-pada-graphene-edge-stategraphene.png"
   }
 ]
