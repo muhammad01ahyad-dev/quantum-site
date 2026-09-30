@@ -19,5 +19,14 @@
       "Second order"
     ],
     "file": "uploads/research/2026-09-08-nonlinear-anomalous-photocurrents-in-quantum-materials-screenshot-20260908-203425.png"
+  },
+  {
+    "title": "Hamiltonian Sederhana yang penting di Quantum Materials",
+    "date": "2026-09-30",
+    "description": "Elektron di dalam zat padat dengan potensial periodik dapat kita ketahui sifatnya dengan menganalisis band structurenya. Semakin besar nomor atom suatu unsur maka akan banyak melibatkan elektron di dalamanya, apalagi jika material tersebut membentuk senyawa/molekul. Menariknya, saat unsu-unsur membentuk senyawa, justru memunculkan sifat yang baru, misalnya ada material yang bersifat insulator, semikonduktor, metal, semimetal dan superkonduktor. Nah, jika kita meninjau elektron di dalam zat padat dengan material yang banyak sekali elektronnya, maka akan sangat sulit  untuk kita mendapatkan properties keseluruhannya (walaupun pasti akan sangat menarik jika kita mendapatkan outputnya seperti bandstructure). oleh karena itu, kita dapat mewakili real material tersebut dengan Hamiltonian Toy sehingga memudahkan dalam menganalisis . Maka perlu kita memahami beberapa Hamiltonian yang menjadi properties sistem seperti yang saya tuliskan di catatan ini.",
+    "tags": [
+      "Hamiltonian material kuantum"
+    ],
+    "file": "uploads/research/2026-09-30-hamiltonian-sederhana-yang-penting-di-quantum-materials-hamiltonian-di-kuantum-materials.pdf"
   }
 ]
