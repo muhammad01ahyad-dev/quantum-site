@@ -36,5 +36,15 @@
       "flat band"
     ],
     "file": "uploads/computation/2026-09-16-edge-state-pada-graphene-edge-stategraphene.png"
+  },
+  {
+    "title": "Quantum Tunneling",
+    "date": "2026-10-08",
+    "description": "Apa itu Quantum Tunneling? Kamu bisa bayangkan sedang berada di depan sebuah tembok besar dan tinggi . Sudah pasti kita akan berfikir, gimana cara melewatinya ya? Kita butuh energi yang melebihi tinggi tembok tersebut, itulah pandangan klasik. Bagaimana dengan partikel yang ada kuantum? walaupun tinggi potensial yang menghalanginya (tetapi berhingga), ternyata probabilitas partikel melewati penghalang tersebut masih ada. artinya ada Bagian gelombang partikel yang ditransmisikan dan melewati penghalang tersebut. Efek ini disebut sebagai efek Tunneling. Kita dapat melihat animasinya sebagai berikut . JIka energinya lebih besar bagaimana? maka sudah pasti akan lebih banyak bagian gelombang partikel yang ditransmisikan.",
+    "tags": [
+      "Fisika Kuantum",
+      "Efek Tunneling"
+    ],
+    "file": "uploads/computation/2026-10-08-quantum-tunneling-animasi-tunneling-2.gif"
   }
 ]
