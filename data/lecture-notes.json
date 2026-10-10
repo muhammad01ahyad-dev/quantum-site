@@ -27,5 +27,16 @@
       "Haldane"
     ],
     "file": "uploads/lecture-notes/2026-09-09-edge-mode-state-lengkap-dengan-semenoff-mass-edge-mode-state-of-graphene-and-haldane-model.pdf"
+  },
+  {
+    "title": "Partikel terkukung di antara potensial tak hingga",
+    "date": "2026-10-10",
+    "description": "Problem 1D yang menarik lainnya yaitu partikel yang terkukung di antara sumur dengan potensial tak hingga. Sekarang kita akan sedikit meningkat pembahasannya dengan menambah dua partikel identik yang bisa saja bertindak sebagai partikel boson dan fermion. Partikel boson tidak mematuhi aturan larangan Pauli, artinya dua partikel dengan keadaan kuantum yang sama diperbolehkan. Beda halnya dengan Fermion yang tidak diperbolehkan dalam keadaan kuantum yang sama. Untuk fungsi gelombang yang memenuhi keadaan sistem dengan dua partikel boson yaitu fungsi gelombang simmetri, sedangkan fungsi gelombang untuk fermion haruslah antisimmetri (Di sini kita asumsikan kedua partikel tidak memiliki spin). Bagaimana jika spinnya kita tinjau? maka untuk partikel fermion, fungsi gelombang spasialnya boleh saja dalam keadaan kuantum yang sama, tetapi keadaan spinnya haruslah berbeda. Kita dapat mempelajarinya di catatan kuliah yang sudah saya tulis",
+    "tags": [
+      "partikel boson",
+      "partikel fermion",
+      "sumur potensial tak hingga"
+    ],
+    "file": "uploads/lecture-notes/2026-10-10-partikel-terkukung-di-antara-potensial-tak-hingga-problem-1d-partikel-dalam-sumur-tak-hingga.docx"
   }
 ]
